@@ -2,7 +2,6 @@
 ### Date: 
 
 
-
 ### AIM:
 To implement the Holt Winters Method Model using Python.
 
